@@ -23,7 +23,10 @@ In order to work out the proportion of young people claiming the benefits in eac
 
 ## How the pack was used
 
-The story featured on the BBC UK homepage 
+The story featured on the BBC UK homepage and attracted more than 600,000 views.
+It also featured as the main phone-in stories for both Radio One's Newsbeat and the Victoria Derbyshire Show on the BBC News Channel
+
+Partners to use the story pack included:
 * Sussex Live: https://www.sussexlive.co.uk/news/sussex-news/coronavirus-benefits-sussex-increase-jobs-4344843
 * Dundee Evening Telegraph: https://www.eveningtelegraph.co.uk/fp/youth-unemployment-in-dundee-rises-sharply-in-just-one-month/
 * Stowmarket Mercury: https://www.stowmarketmercury.co.uk/news/suffolk-youth-unemployment-figures-revealed-1-6753346
