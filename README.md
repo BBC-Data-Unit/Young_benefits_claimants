@@ -1,5 +1,7 @@
 # Coronavirus: Young people on benefits double in lockdown
 
+![](https://ichef.bbci.co.uk/news/624/cpsprodpb/C46D/production/_113458205_youthunemploy2-nc.png)
+
 In July 2020, [we reported how more than one in six young people are now claiming out-of-work benefits in some parts of the UK](https://www.bbc.co.uk/news/uk-53430775?intlink_from_url=&link_location=live-reporting-story).
 
 Claimants of universal credit or jobseeker's allowance aged 18-24 doubled in the UK in the last three months - standing at more than 500,000.
