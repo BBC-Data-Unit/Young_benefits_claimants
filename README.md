@@ -1,5 +1,4 @@
-# Young_benefits_claimants
-## Coronavirus: Young people on benefits double in lockdown
+# Coronavirus: Young people on benefits double in lockdown
 
 In July 2020, [we reported how more than one in six young people are now claiming out-of-work benefits in some parts of the UK](https://www.bbc.co.uk/news/uk-53430775?intlink_from_url=&link_location=live-reporting-story).
 
