@@ -32,6 +32,7 @@ Partners to use the story pack included:
 * Dundee Evening Telegraph: https://www.eveningtelegraph.co.uk/fp/youth-unemployment-in-dundee-rises-sharply-in-just-one-month/
 * Stowmarket Mercury: https://www.stowmarketmercury.co.uk/news/suffolk-youth-unemployment-figures-revealed-1-6753346
 * East Anglian Daily Times: https://www.eadt.co.uk/news/suffolk-youth-unemployment-figures-revealed-1-6753346
+* Islington Tribune: http://islingtontribune.com/article/coronavirus-crisis-leads-to-rise-in-unemployed-young-people
 
 ## Quotes and interviews
 
