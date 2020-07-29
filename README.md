@@ -32,3 +32,24 @@ Partners to use the story pack included:
 * Dundee Evening Telegraph: https://www.eveningtelegraph.co.uk/fp/youth-unemployment-in-dundee-rises-sharply-in-just-one-month/
 * Stowmarket Mercury: https://www.stowmarketmercury.co.uk/news/suffolk-youth-unemployment-figures-revealed-1-6753346
 * East Anglian Daily Times: https://www.eadt.co.uk/news/suffolk-youth-unemployment-figures-revealed-1-6753346
+
+## Quotes and interviews
+
+* [NOMIS](https://www.nomisweb.co.uk/query/select/getdatasetbytheme.asp?collapse=yes)
+
+## Quotes and interviews
+
+* Andrew Adams, 21, unemployed in Liverpool 
+* Gill Bainbridge, chief executive, Merseyside Youth Association
+* Grace Dembowicz, 22, new graduate
+* Professor Guy Michaels, London School of Economics
+* Laura-Jane Rawlings, chief executive, Youth Employment UK
+* Spokesman, Department for Work and Pensions
+
+## Visualisation
+
+* Multiple choropleth map: percentage of people aged 18-24 on Jobseeker's Allowance or claiming Universal Credit
+* Bar chart: Highest rates of 18-24-year-olds claiming work-related benefits, by area
+* Column chart: Number of 18-24-year-olds claiming work-related benefits since start of Universal Credit, 2013-2020
+
+
