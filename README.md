@@ -29,7 +29,7 @@ It also featured as the main phone-in stories for both Radio One's Newsbeat and 
 
 Partners to use the story pack included:
 
-* Dundee Evening Telegraph: {Dundee MP ‘not surprised’ as youth unemployment in city rises sharply in a month](https://www.eveningtelegraph.co.uk/fp/youth-unemployment-in-dundee-rises-sharply-in-just-one-month/) *20 July 2020*
+* Dundee Evening Telegraph: [Dundee MP ‘not surprised’ as youth unemployment in city rises sharply in a month](https://www.eveningtelegraph.co.uk/fp/youth-unemployment-in-dundee-rises-sharply-in-just-one-month/) *20 July 2020*
 * Stowmarket Mercury: [Shock figures show rise in out-of-work young people post lockdown](https://www.stowmarketmercury.co.uk/news/suffolk-youth-unemployment-figures-revealed-1-6753346) *20 July 2020*
 * East Anglian Daily Times: [Shock figures show rise in out-of-work young people post lockdown](https://www.eadt.co.uk/news/suffolk-youth-unemployment-figures-revealed-1-6753346) *20 July 2020*
 * Lynn News: [Number of young people claiming out-of-work benefits doubles in West Norfolk during coronavirus lockdown](https://www.lynnnews.co.uk/news/number-of-young-people-claiming-out-of-work-benefits-doubles-in-west-norfolk-during-coronavirus-lockdown-9116814/) *20 July 2020*
