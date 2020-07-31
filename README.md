@@ -28,21 +28,24 @@ The story featured on the BBC UK homepage and attracted more than 600,000 views.
 It also featured as the main phone-in stories for both Radio One's Newsbeat and the Victoria Derbyshire Show on the BBC News Channel
 
 Partners to use the story pack included:
-* Sussex Live: https://www.sussexlive.co.uk/news/sussex-news/coronavirus-benefits-sussex-increase-jobs-4344843
-* Dundee Evening Telegraph: https://www.eveningtelegraph.co.uk/fp/youth-unemployment-in-dundee-rises-sharply-in-just-one-month/
-* Stowmarket Mercury: https://www.stowmarketmercury.co.uk/news/suffolk-youth-unemployment-figures-revealed-1-6753346
-* East Anglian Daily Times: https://www.eadt.co.uk/news/suffolk-youth-unemployment-figures-revealed-1-6753346
-* Islington Tribune: http://islingtontribune.com/article/coronavirus-crisis-leads-to-rise-in-unemployed-young-people
 
-## Quotes and interviews
+* Dundee Evening Telegraph: {Dundee MP ‘not surprised’ as youth unemployment in city rises sharply in a month](https://www.eveningtelegraph.co.uk/fp/youth-unemployment-in-dundee-rises-sharply-in-just-one-month/) *20 July 2020*
+* Stowmarket Mercury: [Shock figures show rise in out-of-work young people post lockdown](https://www.stowmarketmercury.co.uk/news/suffolk-youth-unemployment-figures-revealed-1-6753346) *20 July 2020*
+* East Anglian Daily Times: [Shock figures show rise in out-of-work young people post lockdown](https://www.eadt.co.uk/news/suffolk-youth-unemployment-figures-revealed-1-6753346) *20 July 2020*
+* Lynn News: [Number of young people claiming out-of-work benefits doubles in West Norfolk during coronavirus lockdown](https://www.lynnnews.co.uk/news/number-of-young-people-claiming-out-of-work-benefits-doubles-in-west-norfolk-during-coronavirus-lockdown-9116814/) *20 July 2020*
+* Sussex Live: [Pandemic causes huge surge in number of young people claiming benefits in Sussex](https://www.sussexlive.co.uk/news/sussex-news/coronavirus-benefits-sussex-increase-jobs-4344843) *21 July 2020*
+* Islington Tribune: [Coronavirus crisis leads to rise in unemployed young people](http://islingtontribune.com/article/coronavirus-crisis-leads-to-rise-in-unemployed-young-people) *24 July 2020*
+
+
+## Data sources
 
 * [NOMIS](https://www.nomisweb.co.uk/query/select/getdatasetbytheme.asp?collapse=yes)
 
 ## Quotes and interviews
 
-* Andrew Adams, 21, unemployed in Liverpool 
+* Andrew Adams, aged 21, unemployed in Liverpool 
 * Gill Bainbridge, chief executive, Merseyside Youth Association
-* Grace Dembowicz, 22, new graduate
+* Grace Dembowicz, aged 22, new graduate
 * Professor Guy Michaels, London School of Economics
 * Laura-Jane Rawlings, chief executive, Youth Employment UK
 * Spokesman, Department for Work and Pensions
@@ -51,6 +54,6 @@ Partners to use the story pack included:
 
 * Multiple choropleth map: percentage of people aged 18-24 on Jobseeker's Allowance or claiming Universal Credit
 * Bar chart: Highest rates of 18-24-year-olds claiming work-related benefits, by area
-* Column chart: Number of 18-24-year-olds claiming work-related benefits since start of Universal Credit, 2013-2020
+* Bar chart: Number of 18-24-year-olds claiming work-related benefits since start of Universal Credit, 2013-2020
 
 
